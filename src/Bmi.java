@@ -15,6 +15,5 @@ public class Bmi {
         System.out.println("twoje bmi: " + bmi);
         System.out.println("masz nadwagę: " + (bmi >= 25));
         System.out.println("masz niedowagę: " + (bmi <= 18.49));
-        
     }
 }
